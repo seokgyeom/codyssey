@@ -1,3 +1,4 @@
+<img width="572" height="1024" alt="0011d2b0-1862-489e-8995-c64519a6ddc2" src="https://github.com/user-attachments/assets/e5f575c5-776e-4d64-a47e-426c607f64d1" />
 # 🚀 학부 행정 및 학생회 업무 자동화를 위한 프롬프트 엔지니어링 패키지
 
 > **본 프로젝트는 대규모 언어 모델(LLM)의 확률적 생성 원리를 이해하고, 정교한 프롬프트 엔지니어링 기법(Few-shot, Reasoning)을 활용하여 대학 학부 행정 및 학생회 업무를 자동화하는 시스템 설계 문서입니다.** 
@@ -209,7 +210,8 @@ AI가 학부 행정 전문 수석 보좌관의 관점에서 동작하도록 시�
 > `A clean, modern, minimal poster background design for a university software department general assembly, featuring abstract tech elements, neon blue and white colors, plenty of empty copy space in the center, cinematic lighting, 8k --ar 4:5`
 
 *(※ 깃허브 업로드 시 아래 플레이스홀더 영역에 생성한 이미지 링크를 삽입합니다.)*
-![개강총회 템플릿 이미지](blob:https://gemini.google.com/0011d2b0-1862-489e-8995-c64519a6ddc2)
+![개강총회 템플릿 이미지](<img width="572" height="1024" alt="0011d2b0-1862-489e-8995-c64519a6ddc2" src="https://github.com/user-attachments/assets/a07b42ab-d36a-42ca-b603-3aab6c4a747e" />
+)
 
 * **🔍 비판적 분석 (개선점 및 안 좋은 점)**
   * **안 좋은 점:** 이미지 생성 AI에게 "개강총회 일시와 장소"를 직접 포스터에 적어달라고 명령하면, 한글 타이포그래피가 심각하게 깨지거나 외계어로 출력됩니다.
