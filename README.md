@@ -211,8 +211,8 @@ AI가 학부 행정 전문 수석 보좌관의 관점에서 동작하도록 시�
 > `A clean, modern, minimal poster background design for a university software department general assembly, featuring abstract tech elements, neon blue and white colors, plenty of empty copy space in the center, cinematic lighting, 8k --ar 4:5`
 
 *(※ 깃허브 업로드 시 아래 플레이스홀더 영역에 생성한 이미지 링크를 삽입합니다.)*
-![개강총회 템플릿 이미지](<img width="572" height="1024" alt="0011d2b0-1862-489e-8995-c64519a6ddc2" src="https://github.com/user-attachments/assets/ee38443a-9a4b-41dd-b28f-e59377d2a416" />
-)
+![개강총회 템플릿 이미지]<img width="572" height="1024" alt="0011d2b0-1862-489e-8995-c64519a6ddc2" src="https://github.com/user-attachments/assets/ee38443a-9a4b-41dd-b28f-e59377d2a416" />
+
 
 * **🔍 비판적 분석 (개선점 및 안 좋은 점)**
   * **안 좋은 점:** 이미지 생성 AI에게 "개강총회 일시와 장소"를 직접 포스터에 적어달라고 명령하면, 한글 타이포그래피가 심각하게 깨지거나 외계어로 출력됩니다.
